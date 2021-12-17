@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gra</string>
+    <string name="lose_result">Przegrana :(</string>
+    <string name="result_lable">Twój Wynik</string>
+    <string name="restart_button">ZAGRAJ ZNOWU</string>
+    <string name="return_button">WRÓĆ</string>
+    <string name="game_desc">Gra polega na wcisnieciu jak najszybciej zielonego przycisku, kiedy pojawi sie na ekranie. Jezeli gracz nacisnie czerwony przycisk przed pojawieniem sie zielnego koloru, gracz przegrywa. Wynik jest liczony w czasie reakcji. Wraz ze zwiekszona iloscia przyciskow czas reakcji jest sumowany z wynikow gracza dla poszczegolnych klikniec.</string>
+    <string name="question_mark">\?</string>
+    <string name="start_button">ZACZYNAM</string>
+    <string name="increment_button">+</string>
+    <string name="decrement_button">-</string>
+</resources>
